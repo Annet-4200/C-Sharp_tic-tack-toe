@@ -1,0 +1,7 @@
+C:\Users\Annet\Desktop\Учеба\Основы программной инженерии\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Annet\Desktop\Учеба\Основы программной инженерии\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Annet\Desktop\Учеба\Основы программной инженерии\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Annet\Desktop\Учеба\Основы программной инженерии\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Annet\Desktop\Учеба\Основы программной инженерии\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Annet\Desktop\Учеба\Основы программной инженерии\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Annet\Desktop\Учеба\Основы программной инженерии\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
